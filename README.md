@@ -1,6 +1,7 @@
 We did this project as part of the EE309 Microprocessors Course
 
-Team Members:
+Team Members:<br>
+
 Reeyansh Shah <br>
 Keshav Maheshwari <br>
 Nishant Bhave <br>
